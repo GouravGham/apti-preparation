@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/apti-preparation/static/css/main.ade3feb6.css",
+    "main.js": "/apti-preparation/static/js/main.fba4df6f.js",
+    "static/js/787.7d8ba7d7.chunk.js": "/apti-preparation/static/js/787.7d8ba7d7.chunk.js",
+    "static/media/rsagarwal.jpg": "/apti-preparation/static/media/rsagarwal.e356d82be09c777c9cc1.jpg",
+    "static/media/indiabix.png": "/apti-preparation/static/media/indiabix.ae381a28965595098532.png",
+    "static/media/sawaal.jpg": "/apti-preparation/static/media/sawaal.d126ed66c2ed8c74b97a.jpg",
+    "static/media/github.svg": "/apti-preparation/static/media/github.ebd452bf402237ef25876cdcac686676.svg",
+    "static/media/instagram.svg": "/apti-preparation/static/media/instagram.116ad97e1f8e0638fcb7d5aed6800697.svg",
+    "static/media/twitter.svg": "/apti-preparation/static/media/twitter.0407223bb7bca83e1349f743cc8849a2.svg",
+    "static/media/linkedin.svg": "/apti-preparation/static/media/linkedin.93683c2cc3d5ca884dcf6c3525104a48.svg",
+    "index.html": "/apti-preparation/index.html",
+    "static/media/google.svg": "/apti-preparation/static/media/google.dacf56a95d5e96471dd7eeac516fe87b.svg",
+    "static/media/facebook.svg": "/apti-preparation/static/media/facebook.3393a8700aa477db6175ff91ae54d6a2.svg",
+    "main.ade3feb6.css.map": "/apti-preparation/static/css/main.ade3feb6.css.map",
+    "main.fba4df6f.js.map": "/apti-preparation/static/js/main.fba4df6f.js.map",
+    "787.7d8ba7d7.chunk.js.map": "/apti-preparation/static/js/787.7d8ba7d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ade3feb6.css",
+    "static/js/main.fba4df6f.js"
+  ]
+}
